@@ -1,8 +1,8 @@
 # Progetto Del Laboratorio Di Reti
 
-#Traccia 2
+# Traccia 2
 
-##Come avviare il progetto
+## Come avviare il progetto
 
 Per la corretta attivazione del progetto bisogna prima far partire il file Server.py
 ```bash
